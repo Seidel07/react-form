@@ -1,0 +1,10 @@
+form input,
+form select {
+	width: 15em;
+	align-content: right;
+}
+
+span {
+	padding-right: 1em;
+	width: 3em;
+}
